@@ -11,7 +11,8 @@ import SwiftUI
 struct Grateful_MomentsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            MomentEntryView()
         }
     }
 }
